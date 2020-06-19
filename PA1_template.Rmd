@@ -12,6 +12,7 @@ Course Project
 ## Step 1 - rading data
 
 ```{r}
+# Set Global Echo = On
 
 if (!file.exists("activity.csv") )
 {
